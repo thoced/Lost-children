@@ -1,0 +1,24 @@
+<scene export_time="1497735973.993013" previous_export_time="1497735820.1222725" exported_by="Thonon" formatVersion="1.0.1" >
+  <nodes >
+    <node name="Sphere" >
+      <position y="3.507805" z="-14.583287" x="-20.602285" />
+      <rotation qx="0.000000" qy="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="2.288326" z="2.288326" x="2.288326" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity physics_type="STATIC" damping_rot="0.10000000149011612" lock_rot_y="False" velocity_max="0.0" lock_rot_x="False" lock_trans_x="False" mass_radius="1.0" anisotropic_friction="False" lock_trans_y="False" actor="False" friction_x="1.0" name="Sphere" velocity_min="0.0" meshFile="Sphere.mesh" damping_trans="0.03999999910593033" inertia_tensor="0.4000000059604645" ghost="False" friction_y="1.0" lock_rot_z="False" friction_z="1.0" lock_trans_z="False" mass="1.0" />
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="C:\Users\Thonon\Documents\JME Apps\BunkerGame\assets\Models\planeGame\rouge.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourDiffuse b="0.05087608844041824" g="0.05087608844041824" r="0.05087608844041824" />
+    <colourAmbient b="0.0" g="0.0" r="0.0" />
+    <colourBackground b="0.05087608844041824" g="0.05087608844041824" r="0.05087608844041824" />
+  </environment>
+</scene>

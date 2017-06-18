@@ -1,0 +1,26 @@
+<scene export_time="1497426685.69048" exported_by="Thonon" formatVersion="1.0.1" previous_export_time="1497299857.0983617" >
+  <nodes >
+    <node name="Cube" >
+      <position y="0.000000" z="-0.000000" x="0.000000" />
+      <rotation qx="0.000000" qy="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.168526" z="1.740730" x="1.301972" />
+      <user_data value='&lt;bpy id prop: owner="OBCube", name="cycles", address=0x000001FC54422038&gt;' type="IDPropertyGroup" name="cycles" />
+      <user_data value='&lt;bpy id prop: owner="OBCube", name="cycles_visibility", address=0x000001FC54420DA8&gt;' type="IDPropertyGroup" name="cycles_visibility" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity damping_rot="0.1589999943971634" anisotropic_friction="False" lock_rot_y="False" friction_y="1.0" lock_trans_y="False" lock_trans_z="False" actor="False" lock_trans_x="False" velocity_min="0.0" lock_rot_z="False" name="Cube" mass="1.0" mass_radius="1.0" velocity_max="0.0" meshFile="Cube.mesh" friction_x="1.0" physics_type="STATIC" lock_rot_x="False" damping_trans="0.02539999969303608" inertia_tensor="0.4000000059604645" ghost="False" friction_z="1.0" />
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="C:\Users\Thonon\Documents\JME Apps\BunkerGame\assets\Models\rockgrass\Material.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourBackground g="0.05087608844041824" r="0.05087608844041824" b="0.05087608844041824" />
+    <colourDiffuse g="0.05087608844041824" r="0.05087608844041824" b="0.05087608844041824" />
+    <colourAmbient g="0.0" r="0.0" b="0.0" />
+  </environment>
+</scene>

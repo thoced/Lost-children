@@ -1,0 +1,16 @@
+Material MyMaterial : Common/MatDefs/Terrain/Terrain.j3md {
+    MaterialParameters {
+        Tex1 : Repeat Models/ground/TexturesCom_GrassDead0101_1_seamless_S.jpg
+    }
+    AdditionalRenderState {
+      PointSprite On
+      FaceCull Back
+      AlphaTestFalloff 0.0
+      DepthWrite On
+      ColorWrite On
+      PolyOffset 0.0 0.0
+      DepthTest On
+      Blend Off
+      Wireframe Off
+    }
+}
